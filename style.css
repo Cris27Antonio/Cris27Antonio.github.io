@@ -1,4 +1,12 @@
 @charset "UTF-8";
 body {
-    background-color: teal;
+	
+	background-color: midnightblue;
+}
+
+
+h1 {
+	color: white
+    border: 2px solid #FFFFFF; 
+    padding: 5px;           
 }
