@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+	
+}
+</head>
+
+<body>
+	<center> 
+	<h1> <FONT COLOR= #F1FFF9 > About Me </h1>
+	
+	<h2> <u><em>Background </em> </u></h2>
+	I am a senior at Bronx Early College Academy. I am interested in 
+	
+	<h2> <u><em>Interests </em> </u></h2>
+	Music, Business, Web Development
+		
+		
+	<h2> </h2>
+		
+	<a href="index.html"> Home Page </a>
+	<a href= "aboutme.html"> About Me</a>
+	<a href="visualdesign.html"> Visual Design </a>
+	<a href="digitaldesign/digitaldesign.html"> Digital Design </a>
+		</center>
+</body>
+</html>
