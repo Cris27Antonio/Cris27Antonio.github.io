@@ -1,0 +1,24 @@
+@charset "UTF-8";
+body {
+	
+	background-color: darkslateblue;
+}
+
+h1 {
+  border: 3px solid white; 
+  padding: 22px; 
+}
+
+
+
+.shadowed-text {
+    text-shadow: 2px 2px 5px black;
+}
+	
+.colored-background {
+    background-color:#3C008E;
+}
+	
+	
+	
+}
